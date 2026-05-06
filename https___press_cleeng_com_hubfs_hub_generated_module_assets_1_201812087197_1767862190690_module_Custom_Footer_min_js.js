@@ -1,0 +1,2 @@
+var module_201812087197=void window.addEventListener("resize",function(){window.innerWidth>991&&document.body.classList.remove("mobile-nav-open")});
+//# sourceURL=https://5813983.fs1.hubspotusercontent-na1.net/hubfs/5813983/hub_generated/module_assets/1/201812087197/1767862190690/module_Custom_Footer.js
